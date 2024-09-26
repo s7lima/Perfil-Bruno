@@ -1,0 +1,80 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(62, 65, 64);
+    text-transform: uppercase;
+}
+
+.container {
+    background-color: #fff;
+    max-width: 900px; 
+    margin: 50px auto;
+    position: relative;
+    border: 2px solid black;
+}
+
+.name-ft {
+    display: flex;
+    background-color: rgb(6, 36, 82);
+    
+}
+
+
+
+.info {
+    color: #fff;
+    padding-top: 2.5rem;
+    padding-left: 3rem;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name-ft img {
+    width: 261px;
+    height: 261px;
+    object-fit: cover;
+    object-position: center;
+    justify-content: right;
+    margin-bottom: 0;
+
+}
+
+.bloco {
+    display: flex;
+}
+
+.conteudo {
+    background-color: rgba(155, 196, 180, 0.548);
+    max-width: 250px;
+    padding: 1.5rem 1.5rem;
+}
+
+.regiao{
+    font-size: 14px;
+    
+}
+
+.regiao h3, p{
+    font-size: 14px;
+    justify-content:space-around;
+    
+}
+
+.conteudo-2 {
+    background-color: #fff;
+    padding: 1.5rem 1.5rem;
+}
+
+.conteudo, .regiao, .hab, .form, .cont {
+    padding: 25px 5px;
+
+}
+
+.perf, .obj, .mtv, .ex-prof, .curiosidade {
+    padding: 15px 10px;
+}
+
+
+#linha-horizontal {
+    max-width: 900px;
+    border: 20px solid rgb(6, 36, 82);
+}
