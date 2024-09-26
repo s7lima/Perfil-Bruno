@@ -16,7 +16,7 @@ Para a realização do desafio e necessario conhecimentos básico em HTML e CSS.
 
 ## Meu processo
 
-Este código HTML com CSS traz um currículo meu:
+Este código HTML com CSS traz um currículo meu com informações onde traz minhas experiencias profissionais, região onde moro, curiosidades etc.
 
 ## Author
 
