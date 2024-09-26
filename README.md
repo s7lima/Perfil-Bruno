@@ -22,3 +22,8 @@ Este código HTML com CSS traz um currículo meu com informações onde traz min
 
 - GitHub - [@s7lima](https://github.com/s7lima)
 
+## Links
+
+-  [Repositório](https://github.com/s7lima/Perfil-Bruno)
+-  [Site](https://perfil-bruno.vercel.app/)
+
