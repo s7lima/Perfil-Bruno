@@ -1,10 +1,9 @@
 # Atividade Apresente-se
 
-Criar uma apresentação pessoal com html e css!
+Criar uma apresentação pessoal em forma de curriculo com html e css!
 
-## Seja Bem vindo !
-
-Este e um curricullo breve meu.
+## Previa Curriculo
+![Previa Curriculo](./img/Previa.png)
 
 ## Linguagens usadas
 
